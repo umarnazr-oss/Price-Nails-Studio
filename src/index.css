@@ -1,0 +1,4 @@
+:root { color-scheme: light; }
+html { min-width: 320px; scroll-padding-top: 90px; }
+body { min-width: 320px; }
+#root { min-height: 100vh; }
